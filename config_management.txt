@@ -1,0 +1,1 @@
+Software Configuration Management is important in software development because it helps teams keep track of every change made to the code. it ensures that we can always go back to a previous version. if somthing goes wrong and helps prevent conflicts when many developers work on the same project. 
